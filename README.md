@@ -1,4 +1,5 @@
-# CUDA Comment Extractor
+# CUDA Comment Extractor. NOT WORKING!
+
 
 ## Overview
 The CUDA Comment Extractor is a tool designed to parse CUDA files and extract comments using Clang tooling. This project leverages the capabilities of Clang's Abstract Syntax Tree (AST) to traverse the code and collect comments efficiently.
